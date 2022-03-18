@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Esto no me lo esperaba*
+Cambiar la lineas para pasar la tarea
 Utiliza la flecha hacia la izquierda para volver!
